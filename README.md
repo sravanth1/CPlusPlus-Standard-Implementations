@@ -1,3 +1,3 @@
 # Standard Implementations
 
-Here are few standard implementations in C++ which might helpful
+Here are few standard implementations in C++ which might be helpful
